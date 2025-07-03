@@ -1,0 +1,7 @@
+[
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "sk-9MEPSX1IHIrlX7nP4b1b55849fE54535Af6e30Ae2dFdDe14",
+        "base_url": "https://api.v3.cm/v1"
+    }
+]

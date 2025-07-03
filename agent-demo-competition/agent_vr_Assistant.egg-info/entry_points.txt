@@ -1,0 +1,2 @@
+[console_scripts]
+Start_Agent_Service = app.App:main

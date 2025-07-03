@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: agent_vr_Assistant
+Version: 1.0
+Requires-Dist: autogen_agentchat==0.2.37
+Requires-Dist: Flask==3.0.3
+Requires-Dist: flask_sock==0.7.0
+Requires-Dist: setuptools==75.1.0
+Requires-Dist: websockets==13.1
